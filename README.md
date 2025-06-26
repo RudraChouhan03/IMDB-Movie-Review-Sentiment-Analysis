@@ -135,4 +135,4 @@ pip install -r requirements.txt
 
 ## Credits
 
-- Based on tutorials by
+- Based on tutorials by **Krish Naik Sir**.
